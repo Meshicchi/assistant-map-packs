@@ -13,6 +13,18 @@
       "url": "https://github.com/Meshicchi/assistant-map-packs/releases/download/hr-v1/hr.pmtiles",
       "minZoom": 0,
       "maxZoom": 14
+    },
+    {
+      "id": "TR",
+      "country": "TR",
+      "name": "Turkey",
+      "level": "standard",
+      "version": 1,
+      "bytes": 191510385,
+      "sha256": "80b67f04a08eb3a6b3b4c6aeb521ea5aeab810f238b4a71ac4d6f946d1e21500",
+      "url": "https://github.com/Meshicchi/assistant-map-packs/releases/download/tr-v1/tr.pmtiles",
+      "minZoom": 0,
+      "maxZoom": 12
     }
   ]
 }
