@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "dailyMb": 1000,
+  "packs": [
+    {
+      "id": "HR",
+      "country": "HR",
+      "name": "Croatia",
+      "level": "standard",
+      "version": 1,
+      "bytes": 215301783,
+      "sha256": "b5fdd70ee70d08b99b539b5d91c21fca95bd45605b4ce8a10239c1a9aaf9d9ba",
+      "url": "https://github.com/Meshicchi/assistant-map-packs/releases/download/hr-v1/hr.pmtiles",
+      "minZoom": 0,
+      "maxZoom": 14
+    }
+  ]
+}
